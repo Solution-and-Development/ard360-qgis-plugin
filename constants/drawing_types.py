@@ -1,0 +1,6 @@
+MARKER='marker'
+HEIGHT='height'
+LINE='line'
+DRAWING_LINE='drawing_line'
+POLYGON='polygon'
+DRAWING_POLYGON='drawing_polygon'

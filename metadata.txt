@@ -1,0 +1,26 @@
+[general]
+name=ARD360 - QGIS Plugin
+author=Urban Explorer Sdn. Bhd.
+email=info@urbanexplorer.com.my
+
+description=Load, manage, and view 360-degree aerial imagery with integrated web-based panoramic viewer
+
+about=ARD360 is a QGIS plugin for managing and visualizing 360-degree aerial imagery directly within your GIS environment.It seamlessly integrates with a web-based panoramic viewer to provide immersive image exploration while maintaining full spatial context within QGIS. The plugin supports telemetry data including GPS coordinates, speed, and sensor readings, making it ideal for aerial data collection workflows.
+
+    Key Features:
+       • Interactive 360-degree imagery display within QGIS
+       • Integrated web-based panoramic viewer
+       • Secure authentication and session management
+       • Telemetry data visualization and analysis
+       • PostgreSQL database integration for layer synchronization
+       • Comprehensive aerial data collection workflow support
+
+version=0.4
+qgisMinimumVersion=3.40
+supportsQt6=True
+
+icon=assets/images/logo.png
+category=Web
+tags=digital twin, ard360, 360, panorama, aerial, imagery, web viewer
+
+homepage=https://urbanexplorer.com.my/

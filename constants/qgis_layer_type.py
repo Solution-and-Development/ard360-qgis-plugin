@@ -1,0 +1,3 @@
+POINT_LAYER='Point'
+LINE_STRING_LAYER='LineString'
+POLYGON_LAYER='Polygon'
