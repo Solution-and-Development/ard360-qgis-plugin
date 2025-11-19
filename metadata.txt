@@ -15,6 +15,8 @@ about=ARD360 is a QGIS plugin for managing and visualizing 360-degree aerial ima
        • PostgreSQL database integration for layer synchronization
        • Comprehensive aerial data collection workflow support
 
+    Contact us at info@urbanexplorer.com.my
+
 version=0.4
 qgisMinimumVersion=3.40
 supportsQt6=True

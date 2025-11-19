@@ -1,1 +1,1 @@
-DEFAULT_HOST='http://localhost:5001'
+DEFAULT_HOST='https://beta.ard360.my'
