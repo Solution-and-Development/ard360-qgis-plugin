@@ -27,3 +27,4 @@ tags=digital twin, ard360, 360, panorama, aerial, imagery, web viewer
 
 homepage=https://urbanexplorer.com.my/
 repository=https://github.com/Solution-and-Development/ard360-qgis-plugin
+tracker=https://github.com/Solution-and-Development/ard360-qgis-plugin/issues
