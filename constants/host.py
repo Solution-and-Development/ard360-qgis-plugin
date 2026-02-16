@@ -1,1 +1,1 @@
-DEFAULT_HOST='https://beta.ard360.my'
+DEFAULT_HOST='https://ard360.my'
