@@ -15,7 +15,7 @@ about=ARD360 is a photogrammetry-enabled platform designed to visualize, navigat
 
     Contact us at info@urbanexplorer.com.my
 
-version=0.5
+version=0.6
 qgisMinimumVersion=3.40
 supportsQt6=True
 
